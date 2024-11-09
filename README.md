@@ -27,6 +27,6 @@ Sinta-se à vontade para contribuir com este projeto! Fork este repositório e a
 
 **Agradecimentos:**
 
-* [@DomeniqueRosa]
+* [!DomeniqueRosa]((https://github.com/DomeniqueRosa))
 * [@UlissesCurvelloFerreira]
 * Ana Carolina
