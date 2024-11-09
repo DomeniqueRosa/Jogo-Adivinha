@@ -1,6 +1,6 @@
 **Descrição:**
 
-Este é um divertido jogo de adivinhação em Python, onde você precisa descobrir um número secreto. Escolha o nível de dificuldade e divirta-se! 
+Este é um  jogo de adivinhação em Python, onde você precisa descobrir um número secreto. Escolha o nível de dificuldade e divirta-se! 
 
 **Como Jogar:**
 
@@ -28,5 +28,5 @@ Sinta-se à vontade para contribuir com este projeto! Fork este repositório e a
 **Agradecimentos:**
 
 * [@DomeniqueRosa](https://github.com/DomeniqueRosa)
-* [@UlissesCurvelloFerreira]
+* [@UlissesCurvelloFerreira](https://github.com/UlissesCurvelloFerreira)
 * Ana Carolina
